@@ -1,0 +1,30 @@
+.InputFind {
+    margin: auto;
+    /* flex-wrap: flex; */
+    /* width: 700px; */
+}
+
+#hint {
+    text-align: center;
+    color: azure;
+}
+
+input {
+    font-size: 18px;
+    width: 400px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+button {
+    height: 25px;
+    width: 25px;
+    border-radius: 20px;
+    background-color: cyan;
+}
+
+h1 {
+    font-size: 45px;
+    margin-top: 200px;
+    color:cyan;
+}

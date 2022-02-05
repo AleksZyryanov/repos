@@ -1,0 +1,27 @@
+img {
+    width: 30px;
+    border-radius: 20pt;
+}
+
+ul {
+    padding: 0;
+    margin-top: 0;
+    /* border: solid; */
+    text-align: left;
+    flex-wrap: wrap;
+}
+
+li {
+    width: 400px;
+    /* border-top-left-radius: 10px; */
+    border: solid;
+    border-color: cadetblue;
+    background-color: cornsilk;
+}
+
+b {
+    color: red;
+}
+
+#workAndName {
+}
